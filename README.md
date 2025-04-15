@@ -9,7 +9,8 @@ Augmented Reality (AR) system : To show the 3D models of mechanical components
 
 GoogleDive Link:
 
-Unity File
+User Manual:
+https://drive.google.com/file/d/1Zh9r_GFDqttjqWH2nzQOrSbHjej8NFTr/view?usp=sharing
 
 APK File
 https://drive.google.com/file/d/1CTiHxjROU9ATJ53NfycSjFWsj02qkoDt/view?usp=sharing
